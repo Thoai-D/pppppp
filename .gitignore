@@ -1,4 +1,8 @@
 Kermany_Pediatric_Attack/
 Master_Dataset/
 Pretrained_Model_Dataset/
+chest_xray/
+ai-project/
+nihfull/
+dataset\
 *.pth
