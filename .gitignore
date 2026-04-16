@@ -5,6 +5,7 @@ Kermany_Pediatric_Attack/
 Master_Dataset/
 Pretrained_Model_Dataset/
 ai-project/
+combinedmasterandchesxray/
 *.pth
 *.keras
 *.onnx
