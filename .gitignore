@@ -6,3 +6,6 @@ Master_Dataset/
 Pretrained_Model_Dataset/
 ai-project/
 *.pth
+*.keras
+*.onnx
+*.h5
