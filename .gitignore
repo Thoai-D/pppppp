@@ -10,3 +10,5 @@ combinedmasterandchestxray/
 *.keras
 *.onnx
 *.h5
+
+.venv
