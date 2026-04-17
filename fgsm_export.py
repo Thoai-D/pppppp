@@ -20,7 +20,7 @@ import keras
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-MODEL_PATH = "baseline_resnet152v2_adversarial.keras"
+MODEL_PATH = "baseline_resnet152v2.keras"
 SOURCE_DIR = "chest_xray/test"
 OUT_DIR    = "fgsm_outputs"
 EPSILON    = 0.01
