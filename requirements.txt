@@ -1,4 +1,7 @@
 #python 3.13
+torch
+torchvision
+kaggle
 
 asttokens==3.0.1
 colorama==0.4.6

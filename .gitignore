@@ -10,3 +10,14 @@ combinedmasterandchestxray/
 *.keras
 *.onnx
 *.h5
+
+# GradCAM/FGSM outputs (generated artifacts)
+fgsm_outputs/
+gradcam_outputs/
+
+# Local data and model directories
+pool_b/
+model/
+
+# OS
+.DS_Store
