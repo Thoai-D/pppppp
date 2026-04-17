@@ -38,7 +38,7 @@ Three chest X-ray datasets are merged into a balanced master dataset:
 
 | Model                                   | Framework        | Type                 |
 | --------------------------------------- | ---------------- | -------------------- |
-| baseline_resnet152.keras                | Keras/Tensorflow | Baseline Finetune    |
+| baseline_resnet152v2.keras                | Keras/Tensorflow | Baseline Finetune    |
 | baseline_resnet152_adversarial_combined | Pytorch          | Adversarial training |
 
 Both models are pre-trained on ImageNet and fine-tuned for binary pneumonia classification.
